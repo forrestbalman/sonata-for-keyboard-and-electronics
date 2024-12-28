@@ -4,7 +4,7 @@
 	import { fade } from "svelte/transition";
 	import { onMount } from "svelte";
 	import { snippets } from "$lib/snippets.svelte";
-	import { darkest, dark, light, lightest, font } from "$lib/theme.svelte";
+	import { theme, bg, text, accent, font } from "$lib/theme.svelte";
 
 	const title = {
 		show: false,
@@ -64,8 +64,8 @@
 	});
 </script>
 
-<Navbar />
-<main class="min-vh-100" style="background: {darkest()};">
+<Navbar show={true} />
+<main class="min-vh-100" style="background: {bg()};">
 	<div class="container text-center">
 		{#if title.show}
 			<div
@@ -74,26 +74,27 @@
 				style="min-height: 50vh;">
 				<h1
 					class="display-1"
-					style=" color: {light()}; font-family: {font()};">
+					style=" color: {accent()}; font-family: {font()};">
 					Sonata
 				</h1>
 				<h2
 					class="fw-light"
-					style="color: {light()}; font-family: {font()};">
+					style="color: {accent()}; font-family: {font()};">
 					for Mechanical Keyboard + Electronics
 				</h2>
 			</div>
 			<div
 				class="d-flex justify-content-center gap-3 mb-3"
 				transition:fade={{ delay: 1000 }}>
-				<LinkButton href="/perform" text="Perform" />
-				<LinkButton href="/about" text="About" />
+				<LinkButton href="/perform" content="Perform" />
+				<LinkButton href="/compose" content="Compose" />
+				<LinkButton href="/about" content="About" />
 			</div>
 			{#if example.show}
 				<p
 					class="snippet text-start m-0"
 					transition:fade
-					style="color: {lightest()}; font-family: {font()};">
+					style="color: {text()}; font-family: {font()};">
 					{example.body}{example.cursor}
 				</p>
 			{/if}

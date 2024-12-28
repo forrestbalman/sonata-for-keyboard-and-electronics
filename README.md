@@ -16,8 +16,5 @@ Performance materials include:
     Speakers
     (optional) Projector + screen
 
-The user sits and "types" out the body of text following the onscreen prompt that progresses through the chosen body of text. As the user works their way through the prompt, your
+The user sits and "types" out the body of text following the on-screen prompt that progresses through the chosen body of text. As the user works their way through the prompt, your
 provided sounds play.
-
-In "Composer Mode," you're prompted to download a copy of the score for you to run locally on your machine. You provide your own text, and can configure the time between each word 
-and letter, the sounds that trigger with each key press, effects for the microphone, and color/font scheme. 
