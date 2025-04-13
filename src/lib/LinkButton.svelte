@@ -1,5 +1,6 @@
 <script>
 	import { theme, bg, text, accent, font } from "$lib/theme.svelte";
+	
 	let { href, content } = $props();
 </script>
 

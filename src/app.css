@@ -3,3 +3,9 @@
 * {
 	transition: all 0.25s ease-in-out;
 }
+
+/* Narrow and low-profile scrollbar styling */
+::-webkit-scrollbar {
+	width: 0px; /* Narrow width */
+	height: 0px; /* For horizontal scrollbars */
+}

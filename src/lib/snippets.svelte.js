@@ -1,3 +1,4 @@
+// Little bits of text for flavor on the home page.
 export const snippets = $state([
 	"Seven years ago we all went through the flames. And the happiness of some of us since then is, we think, well worth the pain we endured.",
 	"He sprung from the cabin-window, as he said this, upon the ice-raft which lay close to the vessel. He was soon borne away by the waves, and lost in darkness and distance.",

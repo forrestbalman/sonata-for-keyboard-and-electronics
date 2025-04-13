@@ -1,3 +1,5 @@
+// Add themes in the colorways object: ensure they have bg, text, and accent properties
+// Add fonts in the fonts array: make sure to import them in app.css
 export const theme = $state({
 	colorways: {
 		Ember: {
@@ -30,6 +32,11 @@ export const theme = $state({
 			text: "#dfb5d5",
 			accent: "#a3a19f",
 		},
+		Verdant: {
+			bg: "#020802",
+			text: "#9aeb8b",
+			accent: "#60e4f7",
+		},
 	},
 	fonts: ["Arvo", "Caveat", "Noto Serif", "Poppins", "Roboto Mono"],
 	config: {
@@ -38,6 +45,7 @@ export const theme = $state({
 	},
 });
 
+// All below functions are for returning values from the theme object because of $state and limitations of JavaScript. You can mix and match by assigning override of a different colorway or font to the functions.
 export function bg(override = null) {
 	return override
 		? theme.colorways[override].bg
