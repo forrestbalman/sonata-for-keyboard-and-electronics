@@ -2,7 +2,7 @@
 
 Download or clone this repository to run your own local copy of the engine. This repository will stay updated with any of my compositions; however, you'll need your own copy to perform/edit/compose.
 
-# Overview
+## Overview
 
 This is a piece generator for mechanical keyboard, electronics, and (optional) projection. I've graded this piece 5/5 accessible, meaning theres no prior music experience
 needed in order to perform. You can learn more about accessibility grades here:
@@ -24,7 +24,7 @@ Performance materials include:
 The user sits and "types" out the body of text following the on-screen prompt that progresses through the chosen body of text. As the user works their way through the prompt, your
 provided sounds play.
 
-# Running the engine
+## Running the engine
 
 Make sure to have NodeJS and the Node Package Manager installed on the machine you plan to perform/compose on
 
