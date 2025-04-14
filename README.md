@@ -11,10 +11,10 @@ The concept behind the piece is inspired by a few things:
 
 Performing this piece requires no prior experience.
 Performance materials include:
--Mechanical keyboard
--Microphone
--Speakers
--Screen/Projector
+- Mechanical keyboard
+- Microphone
+- Speakers
+- Screen/Projector
 
 The user sits and "types" out the body of text following the on-screen prompt that progresses through the chosen body of text. As the user works their way through the prompt, your
 provided sounds play.
