@@ -43,10 +43,11 @@ Before composing, you're going to need a few things:
 
 To compose, navigate to the localhost link and click the `compose` button. Once the page is open, navigate to the `pieces.svelte.js` file and create a new piece. Then create a new variable using the syntax of the other 3 pieces in the file as a guide: `export let titleOfThePiece = $state({})`. You can follow the comments at the top of the page, or use the steps below as a guide. Inside the curly braces...
 
-1. Define a colorway from the list of available colorways in theme.svelte.js
+1. Define a colorway from the list of available colorways in theme.svelte.js which is located in `src > lib`
 2. Define a font from the list of available fonts in theme.svelte.js
 3. Define a title: this is the text that will be displayed in the various headers around the site.
-4. Define a path: this is the name of the folder that contains all of the audio files for this piece.
+4. Define a path: this is the name of the folder that contains all of the audio files for this piece. I recommend using a hyphen separated name for the path.
+    - After this, navigate to `static > sounds` and create a new folder with the same name as the path.
 5. Define a description: this is the text that will pop up as a tooltip when the user hovers over buttons that link to this piece.
 6. Define a text: this is the body of text that will be used for the piece.
 7. Define a config object: this object contains:
@@ -58,3 +59,17 @@ To compose, navigate to the localhost link and click the `compose` button. Once 
     - open up dev tools
     - copy the object from the console
     - paste it here
+
+Once your template 'piece' is created, you can use the engine to assign sounds to individual characters.
+
+1. Click the piece you'd like to modify. You can even modify my pieces if you'd like.
+2. Click on the word in the left hand panel to see it's sound files. Characters with a sound file associated with them will be highlighted.
+3. Enter the name of the sound file in the field for the character you'd like to trigger it.
+    - The file must be placed in the folder you created earlier in `static > sounds`.
+    - The file must be in mp3 format
+    - The name you type into the field shouldn't include `.mp3`
+    - If you did these correctly, the play button will play the sound referenced in the field
+4. Before reloading the page, click the `Export` button to copy all of the changes to your clipboard. This doesn't automatically save your changes!
+    - Navigate to `pieces.svelte.js`
+    - Highlight all content in between the curly braces, including the curly braces themselves.
+    - Paste the contents of your clipboard and save.
