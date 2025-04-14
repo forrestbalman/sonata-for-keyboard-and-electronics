@@ -73,3 +73,17 @@ Once your template 'piece' is created, you can use the engine to assign sounds t
     - Navigate to `pieces.svelte.js`
     - Highlight all content in between the curly braces, including the curly braces themselves.
     - Paste the contents of your clipboard and save.
+
+## Performing
+
+If performed in a larger space, I would encourage mic'ing up the keyboard.
+
+Make sure that the text is either projected alongside the performer, or displayed on a separate screen.
+
+All pieces in `pieces.svelte.js` will pop up as individual buttons on the perform page. Click a button will start the performance.
+
+The notation the performer follows consists of a single progress bar at the top of the page. As the performer types at the keyboard, the text will progressively appear on screen.
+
+- This isn't a typing test. The performer types at their own pace, and all character keys, and space, will create the illusion of typing out the text accurately.
+- All typing the performer does while the bar is invisible won't register.
+
