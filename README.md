@@ -1,4 +1,5 @@
 # Sonata for keyboard and electronics
+Download or clone this repository to run your own local copy of the engine. This repository will stay updated with any of my compositions; however, you'll need your own copy to perform/edit/compose.
 
 # Overview
 This is a piece generator for mechanical keyboard, electronics, and (optional) projection. I've graded this piece 5/5 accessible, meaning theres no prior music experience
@@ -18,3 +19,8 @@ Performance materials include:
 
 The user sits and "types" out the body of text following the on-screen prompt that progresses through the chosen body of text. As the user works their way through the prompt, your
 provided sounds play.
+
+# Running the engine
+1. Grab a copy of the engine by either downloading the code or cloning it to your machine
+2. Open up the directory containing the engine in terminal of your choice
+3. Type ```npm i```
