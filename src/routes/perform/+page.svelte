@@ -49,8 +49,8 @@
 	let speed = 1;
 	// sentenceDelayRange - an object with a min and max value for the delay between sentences.
 	let sentenceDelayRange = $state({
-		min: 1750,
-		max: 3000,
+		min: 2000,
+		max: 4000,
 	});
 	// buffers - an object that stores the loaded audio buffers for the piece. Keeps track of the total number of unique audio files and how many have been loaded so far to prevent the performance from starting before all buffers are loaded.
 	let buffers = $state({
@@ -99,8 +99,6 @@
 		const otherPunctuation = [".", ",", ";", "!", "?"];
 		for (let i = 0; i < piece.text.length; i++) {
 			if (piece.text[i] === "." && piece.text[i - 1] !== ".") {
-				sentences.push(i);
-			} else if (otherPunctuation.includes(piece.text[i])) {
 				sentences.push(i);
 			}
 		}
@@ -285,18 +283,20 @@
 	}
 
 	// transitionBetweenSentences - this function creates a delay between sentences to allow the user to catch up with the performance. It resets the character counter and total character count for the next sentence.
-	function transitionBetweenSentences(mod) {
+	function transitionBetweenSentences() {
 		const delay =
 			Math.floor(
 				Math.random() *
 					(sentenceDelayRange.max - sentenceDelayRange.min)
 			) + sentenceDelayRange.min;
+
 		acceptInput = false;
+
 		setTimeout(() => {
 			totalCharacters.index++;
 			totalCharacters.currentSentenceCount = 0;
 			acceptInput = true;
-		}, delay / mod);
+		}, delay);
 	}
 
 	function updateProgressBarWidth() {
@@ -353,11 +353,7 @@
 				totalCharacters.count ===
 				sentences[totalCharacters.index] + 1
 			) {
-				if (sentences[totalCharacters.index + 1] === ".") {
-					transitionBetweenSentences(1);
-				} else {
-					transitionBetweenSentences(3);
-				}
+				transitionBetweenSentences();
 			}
 		}
 	});
