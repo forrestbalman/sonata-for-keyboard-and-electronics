@@ -470,7 +470,7 @@
 						bind:this={textBox}
 						transition:fade={{ duration: 500 }}>
 						<p
-							class="user-select-none fs-2"
+							class="user-select-none fs-1"
 							style="color: {text()}; font-family: {font()};">
 							{displayText}
 						</p>
