@@ -3950,7 +3950,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		7: {
 			word: "Good",
 			characters: {
-				0: { character: "G", timing: 0, sound: null },
+				0: { character: "G", timing: 0, sound: "drums-1" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "o", timing: 0, sound: null },
 				3: { character: "d", timing: 0, sound: null },
@@ -3983,11 +3983,11 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		10: {
 			word: "round",
 			characters: {
-				0: { character: "r", timing: 0, sound: null },
+				0: { character: "r", timing: 0, sound: "riser-6" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "u", timing: 0, sound: null },
 				3: { character: "n", timing: 0, sound: null },
-				4: { character: "d", timing: 0, sound: null },
+				4: { character: "d", timing: 0, sound: "drums-1" },
 			},
 			duration: 0,
 			delay: 0,
@@ -4049,7 +4049,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		16: {
 			word: "Norway",
 			characters: {
-				0: { character: "N", timing: 0, sound: null },
+				0: { character: "N", timing: 0, sound: "drums-1" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "r", timing: 0, sound: null },
 				3: { character: "w", timing: 0, sound: null },
@@ -4093,7 +4093,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "u", timing: 0, sound: null },
 				3: { character: "n", timing: 0, sound: null },
-				4: { character: "d", timing: 0, sound: null },
+				4: { character: "d", timing: 0, sound: "drums-1" },
 			},
 			duration: 0,
 			delay: 0,
@@ -4132,7 +4132,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		22: {
 			word: "before",
 			characters: {
-				0: { character: "b", timing: 0, sound: null },
+				0: { character: "b", timing: 0, sound: "drums-1" },
 				1: { character: "e", timing: 0, sound: null },
 				2: { character: "f", timing: 0, sound: null },
 				3: { character: "o", timing: 0, sound: null },
@@ -4195,7 +4195,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		28: {
 			word: "this",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "drums-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "i", timing: 0, sound: null },
 				3: { character: "s", timing: 0, sound: null },
@@ -4240,7 +4240,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		32: {
 			word: "what",
 			characters: {
-				0: { character: "w", timing: 0, sound: null },
+				0: { character: "w", timing: 0, sound: "drums-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -4271,7 +4271,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		35: {
 			word: "want",
 			characters: {
-				0: { character: "w", timing: 0, sound: null },
+				0: { character: "w", timing: 0, sound: "drums-1" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "n", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -4294,7 +4294,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		37: {
 			word: "The",
 			characters: {
-				0: { character: "T", timing: 0, sound: null },
+				0: { character: "T", timing: 0, sound: "drums-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "e", timing: 0, sound: null },
 			},
@@ -4436,7 +4436,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				0: { character: "a", timing: 0, sound: null },
 				1: { character: "s", timing: 0, sound: null },
 				2: { character: "t", timing: 0, sound: null },
-				3: { character: "e", timing: 0, sound: null },
+				3: { character: "e", timing: 0, sound: "drums-1" },
 				4: { character: "r", timing: 0, sound: null },
 				5: { character: "n", timing: 0, sound: null },
 				6: { character: ".", timing: 0, sound: null },
@@ -4549,7 +4549,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		60: {
 			word: "mates,",
 			characters: {
-				0: { character: "m", timing: 0, sound: null },
+				0: { character: "m", timing: 0, sound: "drums-1" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "t", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -4718,7 +4718,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 			characters: {
 				0: { character: "a", timing: 0, sound: null },
 				1: { character: "l", timing: 0, sound: null },
-				2: { character: "o", timing: 0, sound: null },
+				2: { character: "o", timing: 0, sound: "drums-1" },
 				3: { character: "n", timing: 0, sound: null },
 				4: { character: "g", timing: 0, sound: null },
 				5: { character: ";", timing: 0, sound: null },
@@ -4774,7 +4774,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		79: {
 			word: "pool",
 			characters: {
-				0: { character: "p", timing: 0, sound: null },
+				0: { character: "p", timing: 0, sound: "drums-1" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "o", timing: 0, sound: null },
 				3: { character: "l", timing: 0, sound: null },
@@ -4831,7 +4831,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		84: {
 			word: "pull,",
 			characters: {
-				0: { character: "p", timing: 0, sound: null },
+				0: { character: "p", timing: 0, sound: "drums-2" },
 				1: { character: "u", timing: 0, sound: null },
 				2: { character: "l", timing: 0, sound: null },
 				3: { character: "l", timing: 0, sound: null },
@@ -4887,7 +4887,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		89: {
 			word: "Starbuck",
 			characters: {
-				0: { character: "S", timing: 0, sound: null },
+				0: { character: "S", timing: 0, sound: "drums-2" },
 				1: { character: "t", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "r", timing: 0, sound: null },
@@ -4921,7 +4921,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		92: {
 			word: "lowest",
 			characters: {
-				0: { character: "l", timing: 0, sound: null },
+				0: { character: "l", timing: 0, sound: "drums-2" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "w", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -4959,7 +4959,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		95: {
 			word: "intensest",
 			characters: {
-				0: { character: "i", timing: 0, sound: null },
+				0: { character: "i", timing: 0, sound: "drums-2" },
 				1: { character: "n", timing: 0, sound: null },
 				2: { character: "t", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -5019,7 +5019,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		99: {
 			word: "pull,",
 			characters: {
-				0: { character: "p", timing: 0, sound: null },
+				0: { character: "p", timing: 0, sound: "drums-2" },
 				1: { character: "u", timing: 0, sound: null },
 				2: { character: "l", timing: 0, sound: null },
 				3: { character: "l", timing: 0, sound: null },
@@ -5031,7 +5031,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		100: {
 			word: "pull!”",
 			characters: {
-				0: { character: "p", timing: 0, sound: null },
+				0: { character: "p", timing: 0, sound: "drums-2" },
 				1: { character: "u", timing: 0, sound: null },
 				2: { character: "l", timing: 0, sound: null },
 				3: { character: "l", timing: 0, sound: null },
@@ -5106,7 +5106,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		106: {
 			word: "bellowed.",
 			characters: {
-				0: { character: "b", timing: 0, sound: null },
+				0: { character: "b", timing: 0, sound: "drums-2" },
 				1: { character: "e", timing: 0, sound: null },
 				2: { character: "l", timing: 0, sound: null },
 				3: { character: "l", timing: 0, sound: null },
@@ -5181,7 +5181,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		112: {
 			word: "blue",
 			characters: {
-				0: { character: "b", timing: 0, sound: null },
+				0: { character: "b", timing: 0, sound: "drums-2" },
 				1: { character: "l", timing: 0, sound: null },
 				2: { character: "u", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -5251,7 +5251,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				0: { character: "c", timing: 0, sound: "drums-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
-				3: { character: "s", timing: 0, sound: null },
+				3: { character: "s", timing: 0, sound: "riser-2" },
 				4: { character: "e", timing: 0, sound: null },
 				5: { character: "d", timing: 0, sound: null },
 			},
@@ -5285,7 +5285,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				0: { character: "c", timing: 0, sound: "drums-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
-				3: { character: "s", timing: 0, sound: null },
+				3: { character: "s", timing: 0, sound: "riser-3" },
 				4: { character: "e", timing: 0, sound: null },
 				5: { character: "d", timing: 0, sound: null },
 				6: { character: ".", timing: 0, sound: null },
@@ -5319,7 +5319,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		124: {
 			word: "steadily,",
 			characters: {
-				0: { character: "s", timing: 0, sound: null },
+				0: { character: "s", timing: 0, sound: "drums-2" },
 				1: { character: "t", timing: 0, sound: null },
 				2: { character: "e", timing: 0, sound: null },
 				3: { character: "a", timing: 0, sound: null },
@@ -5377,7 +5377,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		129: {
 			word: "had",
 			characters: {
-				0: { character: "h", timing: 0, sound: null },
+				0: { character: "h", timing: 0, sound: "drums-2" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "d", timing: 0, sound: null },
 			},
@@ -5403,7 +5403,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		132: {
 			word: "single",
 			characters: {
-				0: { character: "s", timing: 0, sound: null },
+				0: { character: "s", timing: 0, sound: "drums-2" },
 				1: { character: "i", timing: 0, sound: null },
 				2: { character: "n", timing: 0, sound: null },
 				3: { character: "g", timing: 0, sound: null },
@@ -5453,7 +5453,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		136: {
 			word: "But",
 			characters: {
-				0: { character: "B", timing: 0, sound: null },
+				0: { character: "B", timing: 0, sound: "drums-3" },
 				1: { character: "u", timing: 0, sound: null },
 				2: { character: "t", timing: 0, sound: null },
 			},
@@ -5483,7 +5483,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		139: {
 			word: "moment",
 			characters: {
-				0: { character: "m", timing: 0, sound: null },
+				0: { character: "m", timing: 0, sound: "drums-3" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "m", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -5580,7 +5580,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		147: {
 			word: "and",
 			characters: {
-				0: { character: "a", timing: 0, sound: null },
+				0: { character: "a", timing: 0, sound: "drums-3" },
 				1: { character: "n", timing: 0, sound: null },
 				2: { character: "d", timing: 0, sound: null },
 			},
@@ -5631,7 +5631,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		151: {
 			word: "lance",
 			characters: {
-				0: { character: "l", timing: 0, sound: null },
+				0: { character: "l", timing: 0, sound: "harpoon-5" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "n", timing: 0, sound: null },
 				3: { character: "c", timing: 0, sound: null },
@@ -5670,7 +5670,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		155: {
 			word: "low",
 			characters: {
-				0: { character: "l", timing: 0, sound: null },
+				0: { character: "l", timing: 0, sound: "drums-3" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "w", timing: 0, sound: null },
 			},
@@ -5716,7 +5716,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		159: {
 			word: "heard,",
 			characters: {
-				0: { character: "h", timing: 0, sound: null },
+				0: { character: "h", timing: 0, sound: "drums-3" },
 				1: { character: "e", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "r", timing: 0, sound: null },
@@ -5747,7 +5747,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		162: {
 			word: "the",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "drums-3" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "e", timing: 0, sound: null },
 			},
@@ -5850,7 +5850,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		171: {
 			word: "turned",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "drums-3" },
 				1: { character: "u", timing: 0, sound: null },
 				2: { character: "r", timing: 0, sound: null },
 				3: { character: "n", timing: 0, sound: null },
@@ -5913,7 +5913,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		176: {
 			word: "vast",
 			characters: {
-				0: { character: "v", timing: 0, sound: null },
+				0: { character: "v", timing: 0, sound: "riser-6" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "s", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -6036,7 +6036,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		},
 		187: {
 			word: "I",
-			characters: { 0: { character: "I", timing: 0, sound: null } },
+			characters: { 0: { character: "I", timing: 0, sound: "drums-3" } },
 			duration: 0,
 			delay: 0,
 		},
@@ -6056,7 +6056,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 			word: "thou",
 			characters: {
 				0: { character: "t", timing: 0, sound: null },
-				1: { character: "h", timing: 0, sound: null },
+				1: { character: "h", timing: 0, sound: "drums-3" },
 				2: { character: "o", timing: 0, sound: null },
 				3: { character: "u", timing: 0, sound: null },
 			},
@@ -6104,7 +6104,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				4: { character: "n", timing: 0, sound: null },
 				5: { character: "q", timing: 0, sound: null },
 				6: { character: "u", timing: 0, sound: null },
-				7: { character: "e", timing: 0, sound: null },
+				7: { character: "e", timing: 0, sound: "drums-3" },
 				8: { character: "r", timing: 0, sound: null },
 				9: { character: "i", timing: 0, sound: null },
 				10: { character: "n", timing: 0, sound: null },
@@ -6149,7 +6149,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 			word: "last",
 			characters: {
 				0: { character: "l", timing: 0, sound: null },
-				1: { character: "a", timing: 0, sound: null },
+				1: { character: "a", timing: 0, sound: "drums-3" },
 				2: { character: "s", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
 			},
@@ -6203,7 +6203,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 			word: "from",
 			characters: {
 				0: { character: "f", timing: 0, sound: null },
-				1: { character: "r", timing: 0, sound: null },
+				1: { character: "r", timing: 0, sound: "drums-3" },
 				2: { character: "o", timing: 0, sound: null },
 				3: { character: "m", timing: 0, sound: null },
 			},
@@ -6256,7 +6256,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 			word: "at",
 			characters: {
 				0: { character: "a", timing: 0, sound: null },
-				1: { character: "t", timing: 0, sound: null },
+				1: { character: "t", timing: 0, sound: "drums-3" },
 			},
 			duration: 0,
 			delay: 0,
@@ -6328,7 +6328,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 			word: "my",
 			characters: {
 				0: { character: "m", timing: 0, sound: null },
-				1: { character: "y", timing: 0, sound: null },
+				1: { character: "y", timing: 0, sound: "drums-3" },
 			},
 			duration: 0,
 			delay: 0,
@@ -6416,7 +6416,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		221: {
 			word: "and",
 			characters: {
-				0: { character: "a", timing: 0, sound: null },
+				0: { character: "a", timing: 0, sound: "tense-3" },
 				1: { character: "n", timing: 0, sound: null },
 				2: { character: "d", timing: 0, sound: null },
 			},
@@ -6494,7 +6494,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		228: {
 			word: "and",
 			characters: {
-				0: { character: "a", timing: 0, sound: null },
+				0: { character: "a", timing: 0, sound: "tense-3" },
 				1: { character: "n", timing: 0, sound: null },
 				2: { character: "d", timing: 0, sound: "drums-3" },
 			},
@@ -6516,10 +6516,10 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		230: {
 			word: "neither",
 			characters: {
-				0: { character: "n", timing: 0, sound: null },
+				0: { character: "n", timing: 0, sound: "drums-3" },
 				1: { character: "e", timing: 0, sound: null },
 				2: { character: "i", timing: 0, sound: null },
-				3: { character: "t", timing: 0, sound: null },
+				3: { character: "t", timing: 0, sound: "tense-3" },
 				4: { character: "h", timing: 0, sound: null },
 				5: { character: "e", timing: 0, sound: null },
 				6: { character: "r", timing: 0, sound: "riser-4" },
@@ -6530,7 +6530,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		231: {
 			word: "can",
 			characters: {
-				0: { character: "c", timing: 0, sound: null },
+				0: { character: "c", timing: 0, sound: "drums-3" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "n", timing: 0, sound: null },
 			},
@@ -6549,7 +6549,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		233: {
 			word: "mine,",
 			characters: {
-				0: { character: "m", timing: 0, sound: null },
+				0: { character: "m", timing: 0, sound: "tense-3" },
 				1: { character: "i", timing: 0, sound: null },
 				2: { character: "n", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -6561,7 +6561,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		234: {
 			word: "let",
 			characters: {
-				0: { character: "l", timing: 0, sound: null },
+				0: { character: "l", timing: 0, sound: "drums-3" },
 				1: { character: "e", timing: 0, sound: null },
 				2: { character: "t", timing: 0, sound: null },
 			},
@@ -6601,7 +6601,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		238: {
 			word: "to",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "drums-3" },
 				1: { character: "o", timing: 0, sound: null },
 			},
 			duration: 0,
@@ -6636,7 +6636,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		241: {
 			word: "still",
 			characters: {
-				0: { character: "s", timing: 0, sound: null },
+				0: { character: "s", timing: 0, sound: "tense-3" },
 				1: { character: "t", timing: 0, sound: null },
 				2: { character: "i", timing: 0, sound: null },
 				3: { character: "l", timing: 0, sound: null },
@@ -6698,7 +6698,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		246: {
 			word: "to",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "tense-3" },
 				1: { character: "o", timing: 0, sound: null },
 			},
 			duration: 0,
@@ -6707,7 +6707,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		247: {
 			word: "thee,",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "drums-3" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "e", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
@@ -6767,7 +6767,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		},
 		252: {
 			word: "I",
-			characters: { 0: { character: "I", timing: 0, sound: null } },
+			characters: { 0: { character: "I", timing: 0, sound: "tense-3" } },
 			duration: 0,
 			delay: 0,
 		},
@@ -6818,7 +6818,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		257: {
 			word: "The",
 			characters: {
-				0: { character: "T", timing: 0, sound: null },
+				0: { character: "T", timing: 0, sound: "drums-3" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "e", timing: 0, sound: null },
 			},
@@ -6828,7 +6828,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		258: {
 			word: "harpoon",
 			characters: {
-				0: { character: "h", timing: 0, sound: null },
+				0: { character: "h", timing: 0, sound: "whale-1" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "r", timing: 0, sound: null },
 				3: { character: "p", timing: 0, sound: null },
@@ -6842,7 +6842,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		259: {
 			word: "was",
 			characters: {
-				0: { character: "w", timing: 0, sound: null },
+				0: { character: "w", timing: 0, sound: "drums-3" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "s", timing: 0, sound: null },
 			},
@@ -6883,7 +6883,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				4: { character: "c", timing: 0, sound: null },
 				5: { character: "k", timing: 0, sound: null },
 				6: { character: "e", timing: 0, sound: null },
-				7: { character: "n", timing: 0, sound: null },
+				7: { character: "n", timing: 0, sound: "whale-2" },
 			},
 			duration: 0,
 			delay: 0,
@@ -6914,7 +6914,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		265: {
 			word: "forward.",
 			characters: {
-				0: { character: "f", timing: 0, sound: null },
+				0: { character: "f", timing: 0, sound: "drums-3" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "r", timing: 0, sound: null },
 				3: { character: "w", timing: 0, sound: null },
@@ -6940,7 +6940,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		267: {
 			word: "the",
 			characters: {
-				0: { character: "t", timing: 0, sound: null },
+				0: { character: "t", timing: 0, sound: "tense-3" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "e", timing: 0, sound: null },
 			},
@@ -7001,9 +7001,9 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		272: {
 			word: "and",
 			characters: {
-				0: { character: "a", timing: 0, sound: null },
+				0: { character: "a", timing: 0, sound: "drums-3" },
 				1: { character: "n", timing: 0, sound: null },
-				2: { character: "d", timing: 0, sound: null },
+				2: { character: "d", timing: 0, sound: "riser-3" },
 			},
 			duration: 0,
 			delay: 0,
@@ -7026,7 +7026,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		274: {
 			word: "massive",
 			characters: {
-				0: { character: "m", timing: 0, sound: null },
+				0: { character: "m", timing: 0, sound: "tense-3" },
 				1: { character: "a", timing: 0, sound: null },
 				2: { character: "s", timing: 0, sound: "mighty-1" },
 				3: { character: "s", timing: 0, sound: null },
@@ -7053,7 +7053,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		276: {
 			word: "smote",
 			characters: {
-				0: { character: "s", timing: 0, sound: null },
+				0: { character: "s", timing: 0, sound: "whale-1" },
 				1: { character: "m", timing: 0, sound: null },
 				2: { character: "o", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -7099,7 +7099,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 		280: {
 			word: "boat",
 			characters: {
-				0: { character: "b", timing: 0, sound: null },
+				0: { character: "b", timing: 0, sound: "drums-1" },
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -7124,7 +7124,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				1: { character: "o", timing: 0, sound: null },
 				2: { character: "n", timing: 0, sound: null },
 				3: { character: "e", timing: 0, sound: null },
-				4: { character: ".", timing: 0, sound: null },
+				4: { character: ".", timing: 0, sound: "drums-1" },
 			},
 			duration: 0,
 			delay: 0,
@@ -7151,7 +7151,7 @@ export let andIOnlyAmEscapedAloneToTellThee = $state({
 				6: { character: "s", timing: 0, sound: null },
 				7: { character: "e", timing: 0, sound: null },
 				8: { character: "d", timing: 0, sound: null },
-				9: { character: ".", timing: 0, sound: null },
+				9: { character: ".", timing: 0, sound: "drums-1" },
 			},
 			duration: 0,
 			delay: 0,
@@ -7560,7 +7560,7 @@ export let peopleOfGroupon = $state({
 		35: {
 			word: "If",
 			characters: {
-				0: { character: "I", timing: 0, sound: null },
+				0: { character: "I", timing: 0, sound: "phone-1" },
 				1: { character: "f", timing: 0, sound: null },
 			},
 			duration: 0,
@@ -8912,7 +8912,7 @@ export let peopleOfGroupon = $state({
 		},
 		152: {
 			word: "-",
-			characters: { 0: { character: "-", timing: 0, sound: null } },
+			characters: { 0: { character: "-", timing: 0, sound: "phone-2" } },
 			duration: 0,
 			delay: 0,
 		},
@@ -9261,7 +9261,7 @@ export let peopleOfGroupon = $state({
 		184: {
 			word: "what",
 			characters: {
-				0: { character: "w", timing: 0, sound: null },
+				0: { character: "w", timing: 0, sound: "phone-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -9660,7 +9660,7 @@ export let peopleOfGroupon = $state({
 				1: { character: "i", timing: 0, sound: null },
 				2: { character: "r", timing: 0, sound: "effect-1" },
 				3: { character: "s", timing: 0, sound: null },
-				4: { character: "t", timing: 0, sound: null },
+				4: { character: "t", timing: 0, sound: "phone-3" },
 			},
 			duration: 0,
 			delay: 0,
@@ -10227,7 +10227,7 @@ export let peopleOfGroupon = $state({
 				2: { character: "g", timing: 0, sound: null },
 				3: { character: "u", timing: 0, sound: null },
 				4: { character: "r", timing: 0, sound: null },
-				5: { character: "e", timing: 0, sound: null },
+				5: { character: "e", timing: 0, sound: "phone-3" },
 			},
 			duration: 0,
 			delay: 0,
@@ -10309,7 +10309,7 @@ export let peopleOfGroupon = $state({
 				0: { character: "i", timing: 0, sound: null },
 				1: { character: "n", timing: 0, sound: null },
 				2: { character: "t", timing: 0, sound: null },
-				3: { character: "o", timing: 0, sound: null },
+				3: { character: "o", timing: 0, sound: "phone-2" },
 			},
 			duration: 0,
 			delay: 0,
@@ -10811,7 +10811,7 @@ export let peopleOfGroupon = $state({
 		323: {
 			word: "what’s",
 			characters: {
-				0: { character: "w", timing: 0, sound: null },
+				0: { character: "w", timing: 0, sound: "phone-1" },
 				1: { character: "h", timing: 0, sound: null },
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "t", timing: 0, sound: null },
@@ -10905,7 +10905,7 @@ export let peopleOfGroupon = $state({
 				2: { character: "a", timing: 0, sound: null },
 				3: { character: "n", timing: 0, sound: null },
 				4: { character: "g", timing: 0, sound: null },
-				5: { character: "e", timing: 0, sound: null },
+				5: { character: "e", timing: 0, sound: "phone-2" },
 			},
 			duration: 0,
 			delay: 0,
@@ -10996,7 +10996,7 @@ export let peopleOfGroupon = $state({
 			characters: {
 				0: { character: "b", timing: 0, sound: null },
 				1: { character: "a", timing: 0, sound: null },
-				2: { character: "d", timing: 0, sound: null },
+				2: { character: "d", timing: 0, sound: "phone-3" },
 			},
 			duration: 0,
 			delay: 0,
